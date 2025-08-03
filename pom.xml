@@ -6,7 +6,7 @@
 
     <groupId>su.daycube</groupId>
     <artifactId>ColorUtil</artifactId>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -30,8 +30,8 @@
 
     <distributionManagement>
         <repository>
-            <id>repo.daycube.su</id>
-            <url>https://repo.daycube.su/releases</url>
+            <id>deban.ru</id>
+            <url>https://deban.ru/releases</url>
         </repository>
     </distributionManagement>
 
